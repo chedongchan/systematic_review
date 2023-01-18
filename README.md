@@ -23,6 +23,9 @@ I find that my model is able to predict upto 62% of the fibre types using simple
 
 In conlcusion, though models can be generated to salvage the data that are lost, the unavoidable issue is that the seminal papers describing spontaneous activity are few in number and on the whole, there is a clear lack of data for such a complex, and important concept. Therefore, I urge the researchers in the pain field to repeat older, seminal studies (whilst being aligned with the modern reporting standards) and add more to the severely under-represented experiment configurations (species, long-term studies, fibre type focus).
 
+
+tl;dr I gathered data on spontaneous activity of peripheral sensory neurons after nerve injury from Pubmed and used basic statistics and machine learning to generate a model that can predict the fibre types of experiments based on the common features reported in publications, finding that the model was able to predict up to 62% of the fibre types using a simple logistic regressor model/XGBoost with feature selection and hyperparameter tuning, and that a surprising relationship was that the year of publication was a great indicator of fibre types studied, but ultimately I urge future researchers in the pain field to repeat older, seminal studies and add more to the severely under-represented experiment setups.
+
 ## Authors
 * [chedongchan](https://github.com/chedongchan)
 
