@@ -32,3 +32,5 @@ If you have any feedback or queries about the product, please message me at dong
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chedongchan/systematic_review/blob/main/LICENCE) file for details
+
+Thanks :)
