@@ -1,4 +1,4 @@
-# This is a systematic review of spontaneous activity of sensory neurons after peripheral nerve injury. 
+# This is analysis and model training on data from my systematic review of spontaneous activity of sensory neurons after peripheral nerve injury. 
 
 To view the project analysis, please see systematic_review_analysis.ipynb. Link below.   (https://github.com/chedongchan/systematic_review/blob/main/systematic_review_analysis.ipynb).
   
