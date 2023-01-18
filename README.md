@@ -1,6 +1,7 @@
 # This is a systematic review of spontaneous activity of sensory neurons after peripheral nerve injury. 
 
-To view the project analysis, please see systematic_review_analysis.ipynb.Link below.   (https://github.com/chedongchan/systematic_review/blob/main/systematic_review_analysis.ipynb).     
+To view the project analysis, please see systematic_review_analysis.ipynb. Link below.   (https://github.com/chedongchan/systematic_review/blob/main/systematic_review_analysis.ipynb).
+  
 skills/ modules used - Python (scikit-learn, pytorch, lightning, numpy, pandas, matplotlib, seaborn, xgboost)
 
 In brief: 
