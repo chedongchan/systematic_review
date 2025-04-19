@@ -28,7 +28,7 @@ I gathered data on spontaneous activity of peripheral sensory neurons after nerv
 * [chedongchan](https://github.com/chedongchan)
 
 ## Feedback
-If you have any feedback or queries about the product, please message me at dongchan.choi@kcl.ac.uk
+If you have any feedback or queries about the product, please message me at chedongchan@gmail.com
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/chedongchan/systematic_review/blob/main/LICENCE) file for details
